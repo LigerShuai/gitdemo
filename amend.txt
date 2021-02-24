@@ -1,0 +1,10 @@
+1. amend 命令用法
+
+2. amend 追加内容;
+
+3. amend 再次追加，不更改本次 commit 备注。
+
+
+
+
+4. amend 再一次提交
